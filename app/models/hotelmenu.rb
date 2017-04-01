@@ -1,0 +1,2 @@
+class Hotelmenu < ApplicationRecord
+end
